@@ -1,4 +1,8 @@
 nav:
     - Home: index.md
     - Introduction: intro
+    - Architectures: arch
+    - Access: access
+    - Parallel: parallel
+    - Libraries: libs
     - Appendices: appendices
