@@ -1,2 +1,3 @@
 nav:
   - Access: index.md
+  - SSH: ssh
